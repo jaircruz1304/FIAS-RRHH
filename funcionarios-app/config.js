@@ -1,7 +1,7 @@
 // Configuración de la aplicación
 const CONFIG = {
     // URL del backend API (cambiar según tu implementación)
-    API_URL: localStorage.getItem('api_url') || 'https://funcionarios-api.onrender.com/api',
+    API_URL: localStorage.getItem('api_url') || 'https://funcionarios-api-8c39.onrender.com',
     
     // Configuración para GitHub Pages
     IS_GITHUB_PAGES: window.location.hostname.includes('github.io'),
