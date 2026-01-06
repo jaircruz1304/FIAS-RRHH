@@ -1,5 +1,5 @@
 {
-  "name": "funcionarios-backend",
+  "name": "funcionarios-api",
   "version": "1.0.0",
   "description": "API para sistema de gestión de funcionarios",
   "main": "server.js",
