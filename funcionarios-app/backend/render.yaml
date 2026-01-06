@@ -2,7 +2,7 @@
 services:
   # Backend API
   - type: web
-    name: funcionarios-api
+    name: funcionarios-api1
     env: node
     buildCommand: npm install
     startCommand: npm start
